@@ -3,6 +3,6 @@ matplotlib
 six
 pytest
 pylint
-pytest-pytlint
+pytest-pylint
 pytest-cov
 codecov
